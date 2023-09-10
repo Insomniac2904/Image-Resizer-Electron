@@ -8,6 +8,9 @@
 
 ## About The Project
 
+[ezgif.com-gif-maker.webm](https://github.com/Insomniac2904/Image-Resizer-Electron/assets/109868197/95d19d0c-d25b-46ed-b79c-81a04d561577)
+
+
 This is an Image resizer tool made for Desktop application in any Operating System.
 
 ## Built With

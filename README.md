@@ -15,7 +15,7 @@ This is an Image resizer tool made for Desktop application in any Operating Syst
 
 ## Built With
 
-Made using HTML, CSS, ELCETRONJS.Here are a few examples.
+Made using HTML, CSS, ElectronJS.Here are a few examples.
 
 ## Getting Started
 
@@ -50,7 +50,7 @@ To use the applicaion use the Image-Resizer-1.0.0 Setup.exe from **/out/make/squ
 
 ## Usage
 
-Add an image needed to be resized by drag and drop and enter the required size of result image .
+Add an image needed to be resized by clicking on the select image option and choosign the imge from popup and enter the required size of result image .
 
 ## Contributing
 

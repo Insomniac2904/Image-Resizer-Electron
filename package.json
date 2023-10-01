@@ -1,6 +1,7 @@
 {
   "name": "imageresizer",
   "version": "1.0.0",
+  "owner":"adarsh",
   "productName": "Image Resizer",
   "description": "learning electronjs",
   "main": "main.js",
